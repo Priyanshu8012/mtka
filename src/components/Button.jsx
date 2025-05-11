@@ -19,14 +19,9 @@ export default function App() {
   `;
 
   return (
-    <div className="min-h-screen bg-orange-100 p-6 relative">
+    <div className=" bg-orange-100 p-6 relative">
       {/* Sample Content */}
-      <div className="max-w-4xl mx-auto mt-12 text-center">
-        <h1 className="text-3xl font-extrabold text-gray-800 mb-4">Matka Results Dashboard</h1>
-        <p className="text-gray-700 text-lg">
-          View the latest Matka results and game times. Stay updated and play responsibly.
-        </p>
-      </div>
+    
 
       {/* Fixed Action Buttons */}
       <div className="fixed bottom-4 left-4 z-50">
